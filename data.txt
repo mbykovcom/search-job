@@ -1,0 +1,6 @@
+login:
+password:
+search: Python
+not_search_word: Ведущий, fullstack, middle, senior
+skill: Flask, PostgreSQL, python
+period(1, 3, 7, 30): 7
